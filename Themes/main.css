@@ -1,0 +1,23 @@
+/* primary */
+
+.bg-primary {
+    background-color: #30d88f !important;
+}
+
+.bg-primary1 {
+    background-color: #059bff !important;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-nav>.nav-item>.nav-link.active {
+    background: #059bff !important;
+}
+
+.progress {
+    cursor: progress;
+}
+
+.avatar img {
+    width: 150%;
+    position: relative;
+    right: 10px;
+}
